@@ -1,0 +1,6 @@
+{
+  "name": "Aura Artisan Café & Roastery",
+  "description": "Specialty coffee roastery, artisanal pastries, farm-to-table brunch menu, and online table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
